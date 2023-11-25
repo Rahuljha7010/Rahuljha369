@@ -1,5 +1,6 @@
-<h1 align="left">Hi 👋, I'm Rahul Kumar Jha</h1>
-  A passionate frontend developer from India
+   <h1 align="left">Hi 👋, I'm Rahul Kumar Jha</h1>
+   A passionate frontend developer from India
+
 
 - 📫 How to reach me **rahuljha121.rk@gmail.com**
 - ⚡ Fun fact **Funny**
