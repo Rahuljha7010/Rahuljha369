@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="Right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="Right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-<p align="Right"> <a href="https://twitter.com/https://twitter.com/rahuljha369" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/rahuljha369?logo=twitter&style=for-the-badge" alt="https://twitter.com/rahuljha369" /></a> </p>
+<p align="Left"> <a href="https://twitter.com/https://twitter.com/rahuljha369" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/rahuljha369?logo=twitter&style=for-the-badge" alt="https://twitter.com/rahuljha369" /></a> </p>
 
 - 📫 How to reach me **rahuljha121.rk@gmail.com**
 
