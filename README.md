@@ -1,16 +1,14 @@
 <h1 align="left">Hi 👋, I'm Rahul Kumar Jha</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
-<p align="Left"> <a href="https://twitter.com/https://twitter.com/rahuljha369" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/rahuljha369?logo=twitter&style=for-the-badge" alt="https://twitter.com/rahuljha369" /></a> </p>
-
 - 📫 How to reach me **rahuljha121.rk@gmail.com**
 - ⚡ Fun fact **Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/rahuljha369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rahuljha369" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-kumarjha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-kumarjha/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/rahuljha1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/rahuljha1511" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/rahuljha369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rahuljha369" height=40"" width="50" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-kumarjha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-kumarjha/" height="40" width="50" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/rahuljha1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/rahuljha1511" height="40" width="50" /></a>
 </p>
 
 
