@@ -4,7 +4,7 @@
 <img align="Right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/rahuljha369" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/rahuljha369?logo=twitter&style=for-the-badge" alt="https://twitter.com/rahuljha369" /></a> </p>
+<p align="Right"> <a href="https://twitter.com/https://twitter.com/rahuljha369" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/rahuljha369?logo=twitter&style=for-the-badge" alt="https://twitter.com/rahuljha369" /></a> </p>
 
 - 📫 How to reach me **rahuljha121.rk@gmail.com**
 
